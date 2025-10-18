@@ -1,21 +1,62 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm John Doe</h1><br><h3 align="center">A passionate frontend developer from Pakistan</h3><br><br>- 🔭 I’m currently working on **Travel App**<br><br>- 🌱 I’m currently learning **React**<br><br>- 👯 I’m looking to collaborate on **Travel App Project**<br><br>- 💬 Ask me about **react projects**<br><br>- 📫 How to reach me **example@example.com**<br><br>- ⚡ Fun fact **I like to solve difficult coding problems**
+# John Doe — Frontend Developer
 
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dragoon7515) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:facibo3603@isorax.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=scarks&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=scarks&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=scarks&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Hi — I'm John Doe, a frontend developer from Pakistan focused on building performant, accessible, and user-centered web applications. I enjoy turning complex problems into polished, maintainable interfaces and collaborating with teams to ship delightful products.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=scarks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Current
+- Working on: **Travel App** — a modern, responsive booking and exploration experience (link to project when available).
+- Exploring: performance optimization, accessibility improvements, and component-driven design.
+
+## 💼 What I do
+- Build responsive, accessible user interfaces
+- Translate designs into production-ready code
+- Improve UX with performance and accessibility best practices
+- Collaborate across product, design, and backend teams
+
+## 💻 Tech stack
+Primary:
+- HTML5, CSS3, JavaScript (ES6+)
+- React (components, hooks, state management)
+- TypeScript
+
+Tools & workflows:
+- Git, GitHub, CI/CD
+- CSS Modules / Tailwind / Styled Components
+- Webpack / Vite
+- Testing: Jest, React Testing Library
+- Basic familiarity with C++ and backend concepts
+
+(Replace / extend with the exact tech badges or tools you prefer.)
+
+## 🚀 Featured projects
+- Travel App — modern booking and discovery interface (link)
+- [Add other standout projects here with one-line descriptions and links]
+
+Include short project descriptions and links to live demos or repositories for each.
+
+## 📊 GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scarks&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+![Streak stats](https://nirzak-streak-stats.vercel.app/?user=scarks&theme=gruvbox&hide_border=false)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarks&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ✉️ Contact
+- GitHub: https://github.com/scarks
+- Email: add-your-email@example.com (replace with your preferred contact)
+- Socials: add links — LinkedIn / Twitter / YouTube / personal site
+
+## 🎯 Open to
+- Full-time or contract frontend roles
+- Collaborations on frontend-focused OSS projects
+- Mentoring junior devs and peer code reviews
+
+---
+
+## ✍️ Quote
+"Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live." — (a reminder to keep code clean and readable)
+
+---
+
+If you'd like, I can:
+- Replace placeholders (project links, email, socials) with the actual links you provide.
+- Create and open a PR in this repository with this README.md updated.
