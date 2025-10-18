@@ -1,4 +1,7 @@
-
+#I am a Frontend Web Developer!
+#I created amazing Websites for customers/clients.
+#I have wide experience in development.
+#I like to solve frontend coding problems in an efficient manner.
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dragoon7515) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dingdong226688@gmail.com) 
 
